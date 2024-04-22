@@ -1,2 +1,2 @@
 # EARTHQUAKE PREDICTION MODEL
-# GET THE PREDICTION NOW USING: https://didibi07.github.io/Quakify/
+ GET THE PREDICTION NOW USING: https://didibi07.github.io/Quakify/
