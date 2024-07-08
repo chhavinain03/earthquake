@@ -1,4 +1,4 @@
 numpy==1.24.3
 pandas
 scikit-learn==1.2.2
-Python==3.12.4
+Python
